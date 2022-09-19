@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devbazregari
+- 👋 Hi, I’m devbazregari
 - 👀 I’m interested in Back-end ( Django )
 - 📫 How to reach me alibazregaridev@gmail.com
 
